@@ -1,0 +1,13 @@
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe.config
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.exe
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\bin\Debug\KelimeOyunu.pdb
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csprojAssemblyReference.cache
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.Form1.resources
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.Properties.Resources.resources
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csproj.GenerateResource.cache
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.exe
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.pdb
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.kelimeekle.resources
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.oyna.resources
+C:\Users\suley\source\repos\KelimeOyunu\KelimeOyunu\obj\Debug\KelimeOyunu.YuksekSkorlar.resources
